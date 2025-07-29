@@ -1,1 +1,2 @@
-MySudokuBoard.gpj
+#This * ignores all files in the dir i.e test.gpj *.gpj
+*.gpj
